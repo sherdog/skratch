@@ -1,0 +1,63 @@
+{
+    "expandedState": {
+        "data": true,
+        "model": true,
+        "component": true,
+        "controller": true,
+        "resource": true,
+        "2d064b3c-fdae-42c7-986b-bba67454459e": {
+            "id": "2d064b3c-fdae-42c7-986b-bba67454459e",
+            "cn": [
+                {
+                    "id": "f3d1c445-a467-4266-845d-cc7ff230851b"
+                },
+                {
+                    "id": "f9b716ac-0179-4a80-afe4-643f5766f9c9"
+                },
+                {
+                    "id": "343a1363-3339-4cf0-8764-6639b7a175b2"
+                },
+                {
+                    "id": "e46f7091-7c64-44cb-b232-04eb09989985"
+                }
+            ]
+        },
+        "46212272-3136-4d17-a5e9-656b65060978": {
+            "id": "46212272-3136-4d17-a5e9-656b65060978",
+            "cn": [
+                {
+                    "id": "7dca5e42-1bb0-43e5-89d1-e5e18ab0ec2c"
+                },
+                {
+                    "id": "450a2724-f5c0-466d-91a4-b9edcb8dbde7"
+                },
+                {
+                    "id": "b8cff052-2595-41cc-ad54-8f9fe1bef5ed"
+                },
+                {
+                    "id": "d6b1cb4d-e299-4305-872c-0b56184b4eea"
+                }
+            ]
+        },
+        "ceeb1659-9e61-4b73-bcd6-efc446eab276": {
+            "id": "ceeb1659-9e61-4b73-bcd6-efc446eab276"
+        }
+    },
+    "tabState": {
+        "openTabs": [
+            "2d064b3c-fdae-42c7-986b-bba67454459e",
+            "46212272-3136-4d17-a5e9-656b65060978"
+        ]
+    },
+    "canvasState": {
+        "topInstance": null
+    },
+    "inspectorState": {
+        "topInstance": "46212272-3136-4d17-a5e9-656b65060978",
+        "selectedInstance": "b8cff052-2595-41cc-ad54-8f9fe1bef5ed"
+    },
+    "codeState": {
+        "topInstance": "46212272-3136-4d17-a5e9-656b65060978"
+    },
+    "editMode": "code"
+}

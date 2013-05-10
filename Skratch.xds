@@ -1,0 +1,52 @@
+{
+    "name": "Skratch",
+    "settings": {
+        "urlPrefix": "http://localhost/skratch/Skratch/",
+        "exportPath": ""
+    },
+    "xdsVersion": "2.2.2",
+    "xdsBuild": 971,
+    "schemaVersion": 1,
+    "upgradeVersion": 210000000501,
+    "framework": "touch22",
+    "topInstanceFileMap": {
+        "ceeb1659-9e61-4b73-bcd6-efc446eab276": {
+            "paths": [
+                "metadata/resource/Library"
+            ],
+            "className": "Library"
+        },
+        "2d064b3c-fdae-42c7-986b-bba67454459e": {
+            "paths": [
+                "metadata/view/pnlLoginForm",
+                "app/view/override/pnlLoginForm.js",
+                "app/view/pnlLoginForm.js"
+            ],
+            "className": "pnlLoginForm"
+        },
+        "46212272-3136-4d17-a5e9-656b65060978": {
+            "paths": [
+                "metadata/model/UserModel",
+                "app/model/override/UserModel.js",
+                "app/model/UserModel.js"
+            ],
+            "className": "UserModel"
+        }
+    },
+    "viewOrderMap": {
+        "view": [
+            "2d064b3c-fdae-42c7-986b-bba67454459e"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [
+            "46212272-3136-4d17-a5e9-656b65060978"
+        ],
+        "resource": [
+            "ceeb1659-9e61-4b73-bcd6-efc446eab276"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "type": "Ext.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "style": "background-color:#e74c3c;",
+        "styleHtmlContent": true,
+        "designer|userClassName": "pnlLoginForm",
+        "designer|initialView": true
+    },
+    "designerId": "2d064b3c-fdae-42c7-986b-bba67454459e",
+    "cn": [
+        {
+            "type": "Ext.Img",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "centered": true,
+                "height": 47,
+                "html": "<p style=\"text-align:center;\"><img src=\"resources/img/skratch-landscape.png\" /></p>",
+                "id": "imgLogoLogin",
+                "left": "auto",
+                "right": "auto",
+                "style": "margin:0px auto; display:block;",
+                "top": "50px",
+                "width": "100%",
+                "src": "resources/img/skratch-landscape.png"
+            },
+            "designerId": "f3d1c445-a467-4266-845d-cc7ff230851b"
+        },
+        {
+            "type": "Ext.field.Email",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "style": "margin-right:5px; margin-left:5px;",
+                "top": "150px",
+                "width": "97%",
+                "label": "",
+                "placeHolder": "email@example.com"
+            },
+            "designerId": "f9b716ac-0179-4a80-afe4-643f5766f9c9"
+        },
+        {
+            "type": "Ext.field.Password",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "style": "margin:0px 5px;",
+                "top": "200px",
+                "width": "97%",
+                "label": "",
+                "placeHolder": "Password"
+            },
+            "designerId": "343a1363-3339-4cf0-8764-6639b7a175b2"
+        },
+        {
+            "type": "Ext.Button",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "centered": false,
+                "id": "btnSignIn",
+                "style": "margin-left:5px;",
+                "top": "270px",
+                "ui": "action",
+                "width": "97%",
+                "text": "Sign In"
+            },
+            "designerId": "e46f7091-7c64-44cb-b232-04eb09989985"
+        }
+    ]
+}
